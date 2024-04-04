@@ -8,6 +8,7 @@ require (
 	github.com/chainguard-dev/yam v0.0.0-20230116015213-e93efc9df467
 	github.com/charmbracelet/bubbles v0.15.0
 	github.com/charmbracelet/bubbletea v0.23.1
+	github.com/charmbracelet/lipgloss v0.6.0
 	github.com/cpuguy83/go-md2man v1.0.10
 	github.com/dprotaso/go-yit v0.0.0-20220510233725-9ba8df137936
 	github.com/go-git/go-billy/v5 v5.4.0
@@ -93,7 +94,6 @@ require (
 	github.com/benbjohnson/clock v1.3.0 // indirect
 	github.com/blang/semver v3.5.1+incompatible // indirect
 	github.com/blang/semver/v4 v4.0.0 // indirect
-	github.com/charmbracelet/lipgloss v0.6.0 // indirect
 	github.com/chrismellard/docker-credential-acr-env v0.0.0-20221129204813-6a4d6ed5d396 // indirect
 	github.com/clbanning/mxj/v2 v2.5.7 // indirect
 	github.com/cloudflare/circl v1.3.1 // indirect
@@ -252,7 +252,7 @@ require (
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20230123190316-2c411cf9d197 // indirect
 	google.golang.org/grpc v1.52.0 // indirect
-	google.golang.org/protobuf v1.28.1 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
